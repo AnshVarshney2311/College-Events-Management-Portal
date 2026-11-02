@@ -1,4 +1,4 @@
-# College-Events-Management-Portal
+# OMNI CAMPUS HUB
 # Home Page:- 
 <!DOCTYPE html>
 <html lang="en">
